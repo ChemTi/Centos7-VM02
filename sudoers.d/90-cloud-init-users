@@ -1,0 +1,4 @@
+# Created by cloud-init v. 19.4 on Fri, 03 Feb 2023 17:37:05 +0000
+
+# User rules for sunrise
+sunrise ALL=(ALL) NOPASSWD:ALL
