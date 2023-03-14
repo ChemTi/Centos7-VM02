@@ -22,3 +22,4 @@ postfix:x:89:89::/var/spool/postfix:/sbin/nologin
 chrony:x:998:995::/var/lib/chrony:/sbin/nologin
 sunrise:x:1000:1000::/home/sunrise:/bin/bash
 nginx:x:997:994:nginx user:/var/cache/nginx:/sbin/nologin
+mysql:x:27:27:MySQL Server:/var/lib/mysql:/bin/false

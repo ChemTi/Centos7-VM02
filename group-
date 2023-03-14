@@ -40,3 +40,4 @@ postfix:x:89:
 chrony:x:995:
 sunrise:x:1000:
 nginx:x:994:
+mysql:x:27:

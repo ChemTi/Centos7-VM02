@@ -40,3 +40,4 @@ postfix:!::
 chrony:!::
 sunrise:!::
 nginx:!::
+mysql:!::
