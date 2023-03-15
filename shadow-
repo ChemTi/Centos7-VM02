@@ -25,3 +25,4 @@ nginx:!!:19396::::::
 mysql:!!:19425::::::
 redis:!!:19430::::::
 clickhouse:!!:19431::::::
+clickhouse-bridge:!!:19431::::::

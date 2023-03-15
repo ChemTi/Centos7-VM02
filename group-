@@ -43,3 +43,4 @@ nginx:x:994:
 mysql:x:27:
 redis:x:993:
 clickhouse:x:992:
+clickhouse-bridge:x:991:
