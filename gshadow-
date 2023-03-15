@@ -41,3 +41,5 @@ chrony:!::
 sunrise:!::
 nginx:!::
 mysql:!::
+redis:!::
+clickhouse:!::

@@ -1,0 +1,6 @@
+
+[repo.clickhouse.tech_rpm_stable_x86_64]
+name=added from: https://repo.clickhouse.tech/rpm/stable/x86_64
+baseurl=https://repo.clickhouse.tech/rpm/stable/x86_64
+enabled=1
+
