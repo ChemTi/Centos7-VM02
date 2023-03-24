@@ -27,3 +27,4 @@ redis:x:996:993:Redis Database Server:/var/lib/redis:/sbin/nologin
 clickhouse:x:995:992::/nonexistent:/bin/false
 clickhouse-bridge:x:994:991::/nonexistent:/bin/false
 influxdb:x:993:990::/var/lib/influxdb:/bin/false
+postgres:x:26:26:PostgreSQL Server:/var/lib/pgsql:/bin/bash

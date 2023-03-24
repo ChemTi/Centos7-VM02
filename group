@@ -46,3 +46,4 @@ clickhouse:x:992:
 clickhouse-bridge:x:991:
 influxdb:x:990:
 postgres:x:26:
+apache:x:48:

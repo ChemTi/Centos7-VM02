@@ -45,3 +45,4 @@ redis:x:993:
 clickhouse:x:992:
 clickhouse-bridge:x:991:
 influxdb:x:990:
+postgres:x:26:

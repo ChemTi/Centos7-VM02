@@ -1,2 +1,8 @@
+/etc/opt/remi/php70 /etc
+/opt/remi/php73/root /
 /var/lib/mysql-keyring /var/lib/mysql
+/opt/remi/php70/root /
+/etc/opt/remi/php73 /etc
+/var/opt/remi/php73 /var
 /var/lib/mysql-files /var/lib/mysql
+/var/opt/remi/php70 /var
