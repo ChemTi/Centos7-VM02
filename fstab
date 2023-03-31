@@ -7,4 +7,3 @@
 # See man pages fstab(5), findfs(8), mount(8) and/or blkid(8) for more info
 #
 UUID=73c7a5bb-d81e-4815-8bef-f7b261426bab /                       xfs     defaults        0 0
-/dev/vg01/lv01 /mnt xfs defaults 0 0
